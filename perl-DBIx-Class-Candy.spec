@@ -1,5 +1,5 @@
 %define upstream_name    DBIx-Class-Candy
-%define upstream_version 0.001004
+%define upstream_version 0.001005
 
 Name:       perl-%{upstream_name}
 Version:    %perl_convert_version %{upstream_version}
