@@ -12,6 +12,7 @@ Url:        http://search.cpan.org/dist/%{upstream_name}
 Source0:    http://www.cpan.org/modules/by-module/DBIx/%{upstream_name}-%{upstream_version}.tar.gz
 
 BuildRequires: perl(DBIx::Class)
+BuildRequires: perl(Lingua::EN::Inflect)
 BuildRequires: perl(MRO::Compat)
 BuildRequires: perl(Sub::Exporter)
 BuildRequires: perl(Test::More)
