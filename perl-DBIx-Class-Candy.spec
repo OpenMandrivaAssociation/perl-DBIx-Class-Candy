@@ -14,7 +14,9 @@ Source0:    http://www.cpan.org/modules/by-module/DBIx/%{upstream_name}-%{upstre
 BuildRequires: perl(DBIx::Class)
 BuildRequires: perl(Lingua::EN::Inflect)
 BuildRequires: perl(MRO::Compat)
+BuildRequires: perl(String::CamelCase)
 BuildRequires: perl(Sub::Exporter)
+BuildRequires: perl(Test::Deep)
 BuildRequires: perl(Test::More)
 BuildRequires: perl(namespace::clean)
 BuildArch: noarch
