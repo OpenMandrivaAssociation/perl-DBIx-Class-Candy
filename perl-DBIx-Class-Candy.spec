@@ -17,7 +17,7 @@ BuildRequires: perl(MRO::Compat)
 BuildRequires: perl(String::CamelCase)
 BuildRequires: perl(Sub::Exporter)
 BuildRequires: perl(Test::Deep)
-BuildRequires: perl(Test::More)
+BuildRequires: perl(Test::More) >= 0.960.0
 BuildRequires: perl(namespace::clean)
 BuildArch: noarch
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}
