@@ -3,7 +3,7 @@
 
 Name:		perl-%{upstream_name}
 Version:	%perl_convert_version %{upstream_version}
-Release:	3
+Release:	4
 
 Summary:	Create sugar for your favorite ORM, DBIx::Class
 License:	GPL+ or Artistic
